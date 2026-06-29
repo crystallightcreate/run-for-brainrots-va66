@@ -1,4 +1,4 @@
-# 
+# smart run for brainrots Script offers the most advanced run for brainrots Script, with auto-farm and fly. Perfect for dominating any match.
 
 
 
